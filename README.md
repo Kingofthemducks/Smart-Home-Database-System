@@ -118,3 +118,20 @@ Originally developed as part of an academic module at university.
 This repository presents the independently developed database design, SQL implementation and technical documentation as part of a personal software development portfolio.
 
 **Microsoft SQL Server | T-SQL | Database Engineering | Relational Modelling | Business Intelligence**
+
+## Data Visualisation & Analysis
+
+**Tableau** was connected to the Microsoft SQL Server database to create visualisations, analyse query results and present key business insights.
+
+**SQL Queries:**
+- Double Booking Avoidance
+- Installation Costs
+- Weekly Availability
+- Wi-Fi Order Status
+
+**Tableau Dashboards & Visualisations:**
+- Installations Over Time
+- Client Expenditure
+- Design Installations Over Time
+- Device Types Installed
+- Installations by City
