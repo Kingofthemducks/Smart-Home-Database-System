@@ -135,3 +135,5 @@ This repository presents the independently developed database design, SQL implem
 - Design Installations Over Time
 - Device Types Installed
 - Installations by City
+
+Video Demonstration Available on Request of the whole project
