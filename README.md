@@ -4,7 +4,7 @@
 
 A relational database design and implementation project developed for a fictional smart-home company, Smart Homes. The project focuses on database architecture, data relationships, business operations, SQL querying, automated business rules and analytical reporting.
 
-[Magyar változat](README.hu.md)
+[Magyar változat](README HU.md)
 
 ## Project Overview
 
