@@ -118,3 +118,20 @@ A projekt eredetileg egy egyetemi tantárgy keretében készült.
 Ez a repository az önállóan kidolgozott adatbázistervet, SQL-megvalósítást és technikai dokumentációt mutatja be személyes szakmai portfólió részeként.
 
 **Microsoft SQL Server | T-SQL | Adatbázis-fejlesztés | Relációs adatmodellezés | Üzleti intelligencia**
+
+## Adatvizualizáció és elemzés
+
+A **Tableau** a Microsoft SQL Server adatbázishoz csatlakoztatva készült az adatok vizualizálására, az SQL-lekérdezések eredményeinek elemzésére és az üzleti információk szemléltetésére.
+
+**SQL-lekérdezések:**
+- Munkatársak dupla foglalásának megelőzése
+- Telepítési költségek
+- Heti munkatársi elérhetőség
+- Wi-Fi-rendelések státusza
+
+**Tableau-dashboardok és vizualizációk:**
+- Telepítések alakulása időben
+- Ügyfélköltések
+- Tervekhez kapcsolódó telepítések időbeli alakulása
+- Telepített eszköztípusok
+- Telepítések városonként
