@@ -137,3 +137,13 @@ This repository presents the independently developed database design, SQL implem
 - Installations by City
 
 Video Demonstration Available on Request of the whole project
+
+Copyright & Usage
+
+Copyright © 2026 Laszlo Major. All rights reserved.
+
+This repository is publicly available for portfolio and educational demonstration purposes.
+
+The source code is provided for viewing and evaluation. No licence is granted for copying, modifying, redistributing, or commercially using this project without prior written permission from the copyright holder.
+
+Third-party libraries and dependencies remain subject to their respective licences.
