@@ -36,6 +36,8 @@ Az adatbázis főbb komponensei:
 - SENSOR_READINGS & DATACENTER – Szenzoradatok és adatnyilvántartás.
 - MAINTENANCE_CALLOUTS – Karbantartási és szerviztevékenységek kezelése.
 
+![DB Layout](./screenshots/DB%20Layout.png)
+
 ## Adatbázis-alapelvek
 
 A megvalósítás az alábbi adatbázis-tervezési elveket alkalmazza:
@@ -61,6 +63,10 @@ A projekt több SQL-lekérdezést és adatbázis-műveletet tartalmaz, amelyek a
 | Installation_Costs | Telepítési költségek számítása heti, havi és negyedéves időszakok alapján. |
 | Dashboard | Üzleti teljesítmény és működési trendek vizualizációja. |
 
+![Installation Creation](./screenshots/Intallations%20Table%20Creation.png)
+
+![Installations Content](./screenshots/Intallations%20Table%20Content.png)
+
 ### Haladó SQL-technológiák
 
 - Többtáblás JOIN műveletek.
@@ -72,6 +78,10 @@ A projekt több SQL-lekérdezést és adatbázis-műveletet tartalmaz, amelyek a
 - Adatbázis-triggerek.
 - Tranzakció-visszagörgetés és hibakezelés.
 - Összetett kulcsok és relációs megszorítások.
+
+![Installation Costs Query](./screenshots/Installation%20Costs%20Query.png)
+
+![Installation costs per week, month, quarter](./screenshots/Installation%20costs%20per%20week,%20month,%20quarter.png)
 
 ## Tervezési döntések és fejlesztési kihívások
 
@@ -87,6 +97,10 @@ Néhány példa:
 A fejlesztés során különböző adattípusok, NULL értékek, adatbázis-megszorítások és a sémamódosítások gyakorlati következményeinek vizsgálata is szerepet kapott.
 
 Ezek a döntések a fejlesztési folyamat részét képezik, és bemutatják, milyen szempontokat igényel egy elméleti adatbázisterv működőképes rendszerré alakítása.
+
+![Double Booking Avoidance](./screenshots/Double%20Booking%20Avoidance.png)
+
+![Double booking avoidance proof](./screenshots/Double%20booking%20avoidance%20proof.png)
 
 ## Dashboard és üzleti intelligencia
 
@@ -110,6 +124,8 @@ A repository tartalma:
 - Adatbázis-képernyőképek.
 - Dashboard-vizualizációk.
 - Projektbemutató videó (amennyiben elérhető).
+
+![Screenshot 2026-11-09 155521](./screenshots/Screenshot%202026-11-09%20155521.png)
 
 ## Projekt háttere
 
@@ -135,6 +151,14 @@ A **Tableau** a Microsoft SQL Server adatbázishoz csatlakoztatva készült az a
 - Tervekhez kapcsolódó telepítések időbeli alakulása
 - Telepített eszköztípusok
 - Telepítések városonként
+
+![Tablou stats](./screenshots/Tablou%20stats.png)
+
+![tablou client spenditure.png](./screenshots/tablou%20client%20spenditure.png)
+
+![tablou device types installed](./screenshots/tablou%20device%20types%20installed.png)
+
+![tablou installations by city](./screenshots/tablou%20installations%20by%20city.png)
 
 A teljes projektről készült videóbemutató ami kérésre elérhető.
 
