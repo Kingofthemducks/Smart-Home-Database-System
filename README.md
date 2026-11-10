@@ -12,6 +12,8 @@ It brings together customer management, properties, smart-home devices, installa
 
 The implementation explores relational database principles alongside practical SQL development, with particular attention to data consistency, normalisation, referential integrity and business-rule enforcement.
 
+![DB Layout](./screenshots/DB%20Layout.png)
+
 ## Technical Stack
 
 - **Microsoft SQL Server** – Relational database management.
