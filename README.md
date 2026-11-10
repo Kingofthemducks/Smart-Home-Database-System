@@ -81,7 +81,7 @@ The project includes several queries and database operations demonstrating pract
 
 ![Installation Costs Query](./screenshots/Installation%20Costs%20Query.png)
 
-![Installation costs per week, month, quarter](./screenshots/Installation%20costs%20week%20month,%20quarter.png)
+![Installation costs per week, month, quarter](./screenshots/Installation%20costs%20per%20week,%20month,%20quarter.png)
 
 ## Design Decisions & Development Challenges
 
