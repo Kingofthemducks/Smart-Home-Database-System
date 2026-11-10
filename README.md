@@ -114,8 +114,6 @@ The dashboard explores business performance through:
 
 The objective is to transform relational database information into meaningful business insights that can support operational and strategic decisions.
 
-![Double booking avoidance proof](./screenshots/Double%20booking%20avoidance%20proof.png)
-
 ## Project Documentation
 
 The repository includes:
