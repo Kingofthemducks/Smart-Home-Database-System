@@ -12,8 +12,6 @@ It brings together customer management, properties, smart-home devices, installa
 
 The implementation explores relational database principles alongside practical SQL development, with particular attention to data consistency, normalisation, referential integrity and business-rule enforcement.
 
-![DB Layout](./screenshots/DB%20Layout.png)
-
 ## Technical Stack
 
 - **Microsoft SQL Server** – Relational database management.
@@ -37,6 +35,8 @@ Key database components include:
 - INVOICES & PAYMENTS – Financial transaction management.
 - SENSOR_READINGS & DATACENTER – Device readings and data records.
 - MAINTENANCE_CALLOUTS – Maintenance and service management.
+
+![DB Layout](./screenshots/DB%20Layout.png)
 
 ## Database Principles
 
@@ -63,6 +63,10 @@ The project includes several queries and database operations demonstrating pract
 | Installation_Costs | Calculates installation costs using weekly, monthly and quarterly date parameters. |
 | Dashboard | Presents business performance and operational trends. |
 
+![Installation Creation](./screenshots/Intallations%%20Creation.png)
+
+![Installations Content](./screenshots/Intallations%20Table%20Content.png)
+
 ### Advanced SQL Concepts
 
 - Multi-table JOIN operations.
@@ -74,6 +78,10 @@ The project includes several queries and database operations demonstrating pract
 - Database triggers.
 - Transaction rollback and error handling.
 - Composite keys and relational constraints.
+
+![Installation Costs Query](./screenshots/Installation%20Costs%20Query.png)
+
+![Installation costs per week, month, quarter](./screenshots/Installation%20costs%%20week%20month,%20quarter.png)
 
 ## Design Decisions & Development Challenges
 
@@ -90,6 +98,10 @@ The implementation also involved evaluating alternative data types, nullable fie
 
 These decisions form part of the project's development process and demonstrate the importance of translating conceptual database designs into functional implementations.
 
+![Double Booking Avoidance](./screenshots/Double%20Booking%20Avoidance.png)
+
+![Double booking avoidance proof](./screenshots/Double%20booking%20avoidance%20proof.png)
+
 ## Dashboard & Business Intelligence
 
 The dashboard explores business performance through:
@@ -102,6 +114,8 @@ The dashboard explores business performance through:
 
 The objective is to transform relational database information into meaningful business insights that can support operational and strategic decisions.
 
+![Double booking avoidance proof](./screenshots/Double%20booking%20avoidance%20proof.png)
+
 ## Project Documentation
 
 The repository includes:
@@ -111,7 +125,9 @@ The repository includes:
 - Query examples and results.
 - Database screenshots.
 - Dashboard visualisations.
-- Project demonstration video (where available).
+- Project demonstration video on request.
+
+![Screenshot 2026-11-09 155521](./screenshots/Screenshot%202026-11-09%20155521.png)
 
 ## Project Background
 
@@ -137,6 +153,14 @@ This repository presents the independently developed database design, SQL implem
 - Design Installations Over Time
 - Device Types Installed
 - Installations by City
+
+![Tablou stats](./screenshots/Tablou%20stats.png)
+
+![tablou client spenditure.png](./screenshots/tablou%20client%20spenditure.png)
+
+![tablou device types installed](./screenshots/tablou%20device%20types%20installed.png)
+
+![tablou installations by city](./screenshots/tablou%20installations%20by%20city.png)
 
 Video Demonstration Available on Request of the whole project
 
