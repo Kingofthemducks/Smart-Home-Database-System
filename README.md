@@ -63,7 +63,7 @@ The project includes several queries and database operations demonstrating pract
 | Installation_Costs | Calculates installation costs using weekly, monthly and quarterly date parameters. |
 | Dashboard | Presents business performance and operational trends. |
 
-![Installation Creation](./screenshots/Intallations%20Creation.png)
+![Installation Creation](./screenshots/Intallations%20Table%20Creation.png)
 
 ![Installations Content](./screenshots/Intallations%20Table%20Content.png)
 
